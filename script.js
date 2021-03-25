@@ -1,5 +1,6 @@
-// Add event listener to the button 
+// Add event listener to the button
 document.getElementById('button').addEventListener('click', comparison)
+let userInput = 0
 
 // Compares the age of the user, and determines the rating of the movie
 function comparison () {
